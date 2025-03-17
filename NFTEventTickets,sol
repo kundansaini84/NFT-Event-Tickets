@@ -39,3 +39,4 @@ contract NFTEventTickets {
         return ticketsOwned[_owner];
     }
 }
+
